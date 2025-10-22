@@ -1,6 +1,6 @@
 print('       PROGRAM HITUNG GAJI KARYAWAN')
 gakok=300000
-kryw=input('Nama Karywawan: ')
+kryw=input('Nama Karyawan: ')
 gol=int(input('Golongan karyawan: '))
 pdk=(input('Pendidikan: '))
 jk=int(input('Jam Kerja: '))
